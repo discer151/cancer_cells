@@ -1,0 +1,12 @@
+https://www.tensorflow.org/hub/tutorials/image_retraining
+
+
+Write up:
+
+Try to figure out if the dataset gets expanded (perhaps the method the engr students didn't)
+
+Compare to previous versions of inception model or prev vers. of other models
+
+
+code to run:
+python retrain.py --image_dir cell_type_images
