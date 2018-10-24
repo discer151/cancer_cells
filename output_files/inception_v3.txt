@@ -1,0 +1,18 @@
+INFO:tensorflow:Final test accuracy = 94.3% (N=282)
+INFO:tensorflow:=== MISCLASSIFIED TEST IMAGES ===
+INFO:tensorflow:                 original_cell_type_images\actinedge\actinedge_126.jpg  hemisphere
+INFO:tensorflow:                   original_cell_type_images\actinedge\actinedge_7.jpg  lamellipodia
+INFO:tensorflow:                  original_cell_type_images\actinedge\actinedge_84.jpg  lamellipodia
+INFO:tensorflow:                 original_cell_type_images\actinedge\actinedge_126.jpg  hemisphere
+INFO:tensorflow:                   original_cell_type_images\actinedge\actinedge_7.jpg  lamellipodia
+INFO:tensorflow:                  original_cell_type_images\actinedge\actinedge_84.jpg  lamellipodia
+INFO:tensorflow:            original_cell_type_images\hemisphere\hemispherebleb_58.jpg  lamellipodia
+INFO:tensorflow:            original_cell_type_images\hemisphere\hemispherebleb_58.jpg  lamellipodia
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_124.jpg  filopodia
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_306.jpg  actinedge
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_379.jpg  hemisphere
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_390.jpg  filopodia
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_124.jpg  filopodia
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_306.jpg  actinedge
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_379.jpg  hemisphere
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_390.jpg  filopodia

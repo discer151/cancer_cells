@@ -1,0 +1,5 @@
+actinedge
+filopodia
+hemisphere
+lamellipodia
+smallbleb

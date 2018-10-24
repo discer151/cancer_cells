@@ -1,0 +1,39 @@
+INFO:tensorflow:Final test accuracy = 87.2% (N=282)
+INFO:tensorflow:=== MISCLASSIFIED TEST IMAGES ===
+INFO:tensorflow:                   original_cell_type_images\actinedge\actinedge_7.jpg  lamellipodia
+INFO:tensorflow:                  original_cell_type_images\actinedge\actinedge_85.jpg  lamellipodia
+INFO:tensorflow:                   original_cell_type_images\actinedge\actinedge_7.jpg  lamellipodia
+INFO:tensorflow:                  original_cell_type_images\actinedge\actinedge_85.jpg  lamellipodia
+INFO:tensorflow:                 original_cell_type_images\filopodia\filopodia_145.jpg  lamellipodia
+INFO:tensorflow:                 original_cell_type_images\filopodia\filopodia_250.jpg  lamellipodia
+INFO:tensorflow:                 original_cell_type_images\filopodia\filopodia_266.jpg  lamellipodia
+INFO:tensorflow:                 original_cell_type_images\filopodia\filopodia_358.jpg  lamellipodia
+INFO:tensorflow:                 original_cell_type_images\filopodia\filopodia_437.jpg  lamellipodia
+INFO:tensorflow:                 original_cell_type_images\filopodia\filopodia_463.jpg  hemisphere
+INFO:tensorflow:                 original_cell_type_images\filopodia\filopodia_145.jpg  lamellipodia
+INFO:tensorflow:                 original_cell_type_images\filopodia\filopodia_250.jpg  lamellipodia
+INFO:tensorflow:                 original_cell_type_images\filopodia\filopodia_266.jpg  lamellipodia
+INFO:tensorflow:                 original_cell_type_images\filopodia\filopodia_358.jpg  lamellipodia
+INFO:tensorflow:                 original_cell_type_images\filopodia\filopodia_437.jpg  lamellipodia
+INFO:tensorflow:                 original_cell_type_images\filopodia\filopodia_463.jpg  hemisphere
+INFO:tensorflow:             original_cell_type_images\hemisphere\hemispherebleb_5.jpg  actinedge
+INFO:tensorflow:             original_cell_type_images\hemisphere\hemispherebleb_5.jpg  actinedge
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_124.jpg  filopodia
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_306.jpg  smallbleb
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_338.jpg  filopodia
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_379.jpg  hemisphere
+INFO:tensorflow:            original_cell_type_images\lamellipodia\lamellipodia_46.jpg  hemisphere
+INFO:tensorflow:            original_cell_type_images\lamellipodia\lamellipodia_59.jpg  actinedge
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_124.jpg  filopodia
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_306.jpg  smallbleb
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_338.jpg  filopodia
+INFO:tensorflow:           original_cell_type_images\lamellipodia\lamellipodia_379.jpg  hemisphere
+INFO:tensorflow:            original_cell_type_images\lamellipodia\lamellipodia_46.jpg  hemisphere
+INFO:tensorflow:            original_cell_type_images\lamellipodia\lamellipodia_59.jpg  actinedge
+INFO:tensorflow:                 original_cell_type_images\smallbleb\smallbleb_140.jpg  actinedge
+INFO:tensorflow:                 original_cell_type_images\smallbleb\smallbleb_150.jpg  lamellipodia
+INFO:tensorflow:                  original_cell_type_images\smallbleb\smallbleb_21.jpg  lamellipodia
+INFO:tensorflow:                 original_cell_type_images\smallbleb\smallbleb_140.jpg  actinedge
+INFO:tensorflow:                 original_cell_type_images\smallbleb\smallbleb_150.jpg  lamellipodia
+INFO:tensorflow:                  original_cell_type_images\smallbleb\smallbleb_21.jpg  lamellipodia
+INFO:tensorflow:Save final result to : output_files/output_graph_inception_resnet_v2.pb
