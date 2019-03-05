@@ -3,6 +3,8 @@
 output_files/saved_model_inception_resnet_v2
 output_files/output_graph_inception_resnet_v2.pb
 misc/*
-output_files/saved_model_*
-_pycache_/*
-.ipynp_checkpoints/*
+output_files/*
+__pycache__/
+.ipynb_checkpoints/
+images/
+plots/
